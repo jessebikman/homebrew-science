@@ -24,3 +24,7 @@ Docs
 `brew help`, `man brew`, or the Homebrew [wiki][].
 
 [wiki]:http://wiki.github.com/mxcl/homebrew
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jessebikman/homebrew-science/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
